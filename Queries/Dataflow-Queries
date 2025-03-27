@@ -1,1 +1,2 @@
-
+Using Pivot Activity in ADF Data moved to Storage Account and used query is
+sum(toInteger(Sales))
